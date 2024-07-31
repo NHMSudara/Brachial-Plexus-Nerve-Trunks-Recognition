@@ -28,4 +28,4 @@ This folder contains the client and server code for the application, as well as 
 
 - **client.py**: Client code that runs on the KR260 board.
 - **kr260.xmodel**: The compiled model file for the KR260 board.
-- **server.py**: Server code that runs on a laptop, captures input video, and places it in the same location as `server.py`.
+- **server.py**: Server code that runs on a laptop, download input video(https://drive.google.com/file/d/1NGlqjt_9Bwbe0e4EsFT1-egwRKsseXae/view?usp=drive_link), and places it in the same location as `server.py`.
